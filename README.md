@@ -1,2 +1,2 @@
 # final-robot
-robot programming final exercise
+git repository for the robot programming final exercise
